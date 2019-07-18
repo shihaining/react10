@@ -1,0 +1,13 @@
+@font-face{
+    font-family: "f1";
+    src:url("../font/zaozi.otf");
+
+}
+body{
+    background: yellow;
+    background-image: url("../imgs/icon_heart2.png")
+}
+.txtFont{
+    font-family: f1;
+    font-size: 50px;
+}
